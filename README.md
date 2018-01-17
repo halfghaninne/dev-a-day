@@ -1,4 +1,39 @@
-[![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
+# Dev-A-Day
+
+_Showing off non-dude developers as an experiment in the MEAN stack._
+
+**MongoDB • Express.js • Angular.js • Node.js**
+
+## Summary
+
+This web application will be a place where users can find out about different women and non-binary engineers. The home page will feature a new dev every day (hence the name) and users can also peruse through the entire collection of data by queries such as specialization or languages. 
+
+There will also be optional data points associated with each dev like their personal sites, public profiles (eg Twitter, Medium), projects they built that are great examples for learners, or talks they gave for beginners/intermediates/experts. I'd also like there to be a periodic web crawler on the back-end that checks to make sure links to all these resources are still functioning, and flags the dev as something like `inactive` or `needsReview` if some of their sites are down.
+
+Basically, I'm building this because I would love for no one to ever have the excuse of "we couldn't find anyone for that" ever. again.
+
+## Why 
+
+While developing curriculum for Girls Who Code [Campus](https://girlswhocode.com/campus/), I was searching for examples of beginner-friendly, simply-designed portfolios built by women and non-binary engineers.
+
+I found many a list-icle with good examples of portfolios but ones made by women and non-binary engineers were conspicuously absent. And if it couldn't get more depressing, when I finally _did_ find a list predominantly containing work by these folks, many of the links were broken or their projects were not maintained. 
+
+I quickly grew frustrated trying to find:
+1. examples of projects or features that were built by prominent women and non-binary engineers
+2. age-appropriate resources for introducing the work of prominent engineers from these backgrounds
+
+I knew:
+1. That I might be currently willing (and paid, at the time) to track these resources down but many people are not and ,that this overhead was a big barrier for inclusivity in CS
+2. That I had access to lists of bad-ass engineers from underrepresented backgrounds but this is because of my involvement with organizations like [Girls Who Code](https://girlswhocode.com) and [Write/Speak/Code](http://www.writespeakcode.com/); not everyone has this access
+2. There has to be ways to make the parts of the process -- like discovery of engineers, organization of resources, and maintenance of the "master list" of these -- more efficient
+3. I was looking for potential projects for my 2018 goals of building in new (to me) frameworks and having 100 days of personal commits to GitHub
+
+
+## Let me know!
+
+[Be in touch](https://twitter.com/halfghaninNE) if this made you think! Constructive criticism and code review is (very) welcomed. 
+
+<!-- [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meanjs/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
@@ -246,3 +281,4 @@ The MEAN name was coined by [Valeri Karpov](http://blog.mongodb.org/post/4926286
 
 ## License
 [The MIT License](LICENSE.md)
+ -->
